@@ -16,8 +16,10 @@ Ta sử dụng command ``ls`` kiểm tra xem có những thư mục nào.
 Tại đây ta thấy 1 file readme.Dùng command ``cat`` Mở nó 
 lên và ta thấy 1 đoạn mã.
 
-Ta sẽ dùng đoạn mã này cho password ở level kế tiếp
+Ta sẽ dùng đoạn mã này cho password ở level kế tiếp.
+
 ![leve0](image/level1.png)
+
 ```
 Password: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 ```

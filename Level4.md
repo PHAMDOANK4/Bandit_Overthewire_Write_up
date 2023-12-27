@@ -14,6 +14,7 @@ Sử dụng lệnh ``file [tên file]`` để kiểm tra thì thấy đấy là 
 Mục tiêu là chúng ta sẽ kiểm tra tất cả các file xem file nào chứa ký tự đọc được và lấy password.
 
 Để kiểm tra các file nhanh chóng ta sử dụng lệnh ``file ./-file0*`` và ta có kết quả có 1 file là có kiểu ``ASCII text``. Mở thử lên xem có pass không và nó ở đây.
+
 ![level4](image/level4.png)
 
 Password cần tìm: ```lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR```
